@@ -37,7 +37,7 @@
 
 == EDUCATION
 
-=== Computer Science - University of Washington #h(1fr) Expected to graduate on June 2026
+=== Computer Science - University of Washington #h(1fr) Expected to graduate on June 2025
 
 - GPA: 3.89
 - Courses: Machine Learning, Systems Programming, Digital Design, Hardware-Software Interface, Software Design & Implementation, Data Structures & Parallelism.
