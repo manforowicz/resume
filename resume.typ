@@ -54,8 +54,8 @@
 
 === Leader at student organizations - University of Washington #h(1fr) 2022 - Present, 
 
-- At #link("https://huskysat.org/team.html")[Husky Satellite Lab], leads a 6-person team to launch a high altitude research balloon to 30,000 meters. Has designed many #link("https://github.com/UWCubeSat/radio-hw")[circuit boards].
-- At #link("https://huskylink.washington.edu/organization/hfc")[Husky Flying Club], leads a 4-person team in building remotely-operated aerial vehicles from foam composites.
+- At #link("https://huskysat.org/team.html")[Husky Satellite Lab], leads a 6-person team to launch a high altitude research balloon to 30,000 meters. Collaborates with peers to design and program #link("https://github.com/UWCubeSat/radio-hw")[circuit boards].
+- At #link("https://huskylink.washington.edu/organization/hfc")[Husky Flying Club], leads a 4-person team in building remotely-operated aerial vehicles from foam composites. Teaches electronics, build techniques, and basic aerodynamics. 
 
 === Competitive programmer #h(1fr) 2021 - Present
 
