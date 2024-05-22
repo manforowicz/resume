@@ -31,9 +31,9 @@
 
 == QUALIFICATIONS
 
-- Significant experience programming in: C, C++, Python, Rust, Java, Typescript, #link("https://github.com/manforowicz/resume")[Typst].
-- Significant experience using: KiCad, Godot, Arduino, Kdenlive, Eleventy
-- Native language proficiency in: English, Polish
+- Significant experience programming in: C, C++, Python, Rust, Java, SystemVerilog, Typescript.
+- Significant experience using: KiCad, Godot, Arduino, Kdenlive, Eleventy, #link("https://github.com/manforowicz/resume")[Typst].
+- Native language proficiency in: English, Polish.
 
 == EDUCATION
 
