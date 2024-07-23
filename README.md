@@ -1,5 +1,5 @@
 ## Marcin's Resume
 
-I wrote this resume in [Typst](https://typst.app/docs), a modern alternative to LaTex.
+I wrote my [resume](/resume.pdf) in [Typst](https://typst.app/docs), a modern alternative to LaTex.
 
-Also check out [my website](https://manforowicz.github.io/).
+Also check out [my website](https://manforowicz.github.io/) and my [LinkedIn](https://www.linkedin.com/in/m-anforowicz/).
