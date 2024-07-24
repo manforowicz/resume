@@ -47,7 +47,7 @@
 
 === Engineering Intern at #link("https://www.wibotic.com/")[WiBotic] #h(1fr) June 2024 - September 2024
 - Wrote a Python test suite for embedded CAN serial communication on crowded networks.
-- Designed and built a PCB testing fixture to hold multiple microcontrollers on a CAN line.
+- Designed and built a PCB testing fixture to hold multiple microcontrollers on a CAN bus.
 - Found firmware bugs by using GDB on embedded microcontrollers.
 - Programmed an embedded CAN-to-ethernet adapter.
 
