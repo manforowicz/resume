@@ -64,7 +64,7 @@
 
 === Leader at student organizations --- University of Washington #h(1fr) 2022 - Present, 
 
-- At #link("https://huskylink.washington.edu/organization/hfc")[Husky Flying Club], leads a 4-person team in building remotely-operated aerial vehicles from foam composites. Teaches electronics, build techniques, and basic aerodynamics. 
+- At #link("https://techfee.uw.edu/story/husky-flying-club-2/")[Husky Flying Club], leads a 4-person team in building remotely-operated aerial vehicles from foam composites. Teaches electronics, build techniques, and basic aerodynamics. 
 - Creates marketing websites that auto-deploy using GitHub continuous integration:  #link("https://uw-programming.netlify.app/")[UW Competitive Programming Club] (#link("https://github.com/manforowicz/uwcp-site")[code]), #link("https://huskysat.org/team.html")[Husky Satellite Lab] (#link("https://github.com/uwCubeSat/hsl-website")[code]), #link("https://manforowicz.github.io/flock/")[personal site] (#link("https://github.com/manforowicz/manforowicz.github.io")[code]).
 - At #link("https://huskysat.org/team.html")[Husky Satellite Lab], lead a team to design and build CubeSat radio #link("https://github.com/UWCubeSat/radio-hw")[circuit boards].
 
