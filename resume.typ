@@ -42,7 +42,7 @@
 
 == EXPERIENCE
 
-=== Engineering Intern at #link("https://www.wibotic.com/")[WiBotic] #h(1fr) June 2024 - September 2024
+=== Software engineering intern at #link("https://www.wibotic.com/")[WiBotic] #h(1fr) June 2024 - September 2024
 
 // Header
 #grid(
@@ -58,7 +58,7 @@
   image("circuit.jpg")
 )
 
-=== YouTube Educator #h(1fr) 2022 - Present
+=== YouTube educator #h(1fr) 2022 - Present
 - #link("https://youtu.be/_FuuYSM7yOo?si=-bUz7KSFfRh2WE0f")[The "Just One More Paradox"] - Over 3M views. Programmatically animated #link("https://github.com/manforowicz/Manim-Videos")[using Manim].
 - #link("https://youtu.be/cGJYCe6mGR0?si=_fzZlMWUd3hXujSL")[PCB Magnetorquer Prototype - Husky Satellite Lab] - Includes #link("https://github.com/manforowicz/Magnetorquer-Calc")[optimization code I wrote].
 
