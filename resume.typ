@@ -29,7 +29,7 @@
   ]
 )
 
-- 3rd-year computer science undergraduate searching for a 2nd internship.
+- 3rd-year computer science undergraduate searching for a 2nd software internship.
 - Industry experience in: C, C++, Python, JavaScript, ESP-IDF, circuit design, GDB.
 - Project experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
 - Native language proficiency in: English, Polish.
@@ -66,18 +66,18 @@
 
 === Leader at student organizations --- University of Washington #h(1fr) 2022 - Present, 
 
-- At #link("https://techfee.uw.edu/story/husky-flying-club-2/")[Husky Flying Club], leads a 4-person team in building remotely-operated aerial vehicles from foam composites. Teaches electronics, design, and implementation. 
+- At UW Husky Flying Club, leads a 4-person team in building remotely-operated aerial vehicles from foam composites. Teaches electronics, design, and implementation. 
 - Creates marketing websites that auto-deploy using GitHub continuous integration:  #link("https://uw-programming.netlify.app/")[UW Competitive Programming Club] (#link("https://github.com/manforowicz/uwcp-site")[code]), #link("https://huskysat.org/team.html")[Husky Satellite Lab] (#link("https://github.com/uwCubeSat/hsl-website")[code]), #link("https://manforowicz.github.io/flock/")[personal site] (#link("https://github.com/manforowicz/manforowicz.github.io")[code]).
-- At #link("https://huskysat.org/team.html")[Husky Satellite Lab], lead a team to design and build CubeSat radio #link("https://github.com/UWCubeSat/radio-hw")[circuit boards].
+- At Husky Satellite Lab, lead a team to design and build CubeSat radio #link("https://github.com/UWCubeSat/radio-hw")[circuit boards].
 
 === Active hobbyist #h(1fr) 2022 - Present
 
 - Creates open source projects such as #link("https://github.com/manforowicz/gday")[Gday], a tool for encrypted peer-to-peer file transfer.
 - Published an interactive Rust web assembly #link("https://manforowicz.github.io/flock/")[simulation] on personal website.
-- Is an FCC-certified amateur radio operator. Experiments with #link("https://en.wikipedia.org/wiki/WSPR_(amateur_radio_software)")[WSPR], #link("https://en.wikipedia.org/wiki/Internet_Radio_Linking_Project")[IRLP], and #link("https://en.wikipedia.org/wiki/Automatic_Packet_Reporting_System")[APRS].
+- Is an FCC-certified amateur radio operator. Experiments with WSPR, IRLP, and APRS.
 - Has built 4 #link("https://youtu.be/02VQIWccqr0")[remote-controlled aircraft], with onboard cameras and electronic payloads.
 
 === Competitive programmer #h(1fr) 2021 - Present
 
-- One of 900 programmers who qualified to #link("http://usaco.org/")[USACO Gold] in 2022.
-- Competes on an #link("https://icpc.global/")[ICPC] team at the University of Washington's #link("https://uw-programming.netlify.app/")[Competitive Programming Club].
+- One of 900 programmers worldwide who qualified to USACO Gold in 2022.
+- Competes on an ICPC team at the University of Washington's Competitive Programming Club.
