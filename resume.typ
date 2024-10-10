@@ -12,6 +12,7 @@
 // Style
 #set page(paper: "us-letter")
 #set text(font: "Cantarell", lang: "en")
+#set par(leading: 0.75em)
 #show link: underline
 #show link: set text(blue)
 
@@ -51,10 +52,11 @@
   align: (left, right),
   [
     - Wrote over 3000 lines of multithreaded firmware for a  #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet adapter].
+    - Developed a fullstack web app for configuring the CAN-to-ethernet adapter.
     - Designed and built PCBs to power 64 microcontrollers on a shared CAN bus $->$
     - Created a Python test suite that caught bugs in production firmware.
     - Diagnosed and fixed major bugs in a large embedded C++ codebase.
-    - Used multithreading to accelerate a test analytics PDF report generator.
+    - Used Python multithreading to accelerate a test analytics PDF report generator.
 
   ],
   image("circuit.jpg")
