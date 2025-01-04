@@ -31,7 +31,7 @@
 )
 
 - 3rd-year computer science undergraduate searching for a 2nd software internship.
-- Industry experience in: C, C++, Python, JavaScript, ESP-IDF, circuit design, GDB.
+- Industry experience in: C, C++, Python, JavaScript, ESP-IDF, circuit design, GDB, serial.
 - Project experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
 - Native language proficiency in: English, Polish.
 
@@ -39,8 +39,8 @@
 
 === Computer Science --- University of Washington #h(1fr) 2022 - Expected June 2026
 
-- GPA: 3.89
-- Excelled in courses: Machine Learning, Systems Programming, Digital Design, Hardware-Software Interface, Computer Security, Operating Systems, Data Structures & Parallelism.
+- GPA: 3.90
+- Excelled in courses: Machine Learning, Systems Programming, Digital Design, Hardware-Software Interface, Security, Operating Systems, Data Structures & Parallelism, Networks.
 
 == EXPERIENCE
 
@@ -62,7 +62,10 @@
   image("circuit.jpg")
 )
 
+// TODO - Add CSE 351 Teaching Assistant eventually
+
 === YouTube educator #h(1fr) 2022 - Present
+
 - #link("https://youtu.be/_FuuYSM7yOo?si=-bUz7KSFfRh2WE0f")[The "Just One More Paradox"] - Over 3M views. Programmatically animated #link("https://github.com/manforowicz/Manim-Videos")[using Manim].
 - #link("https://youtu.be/cGJYCe6mGR0?si=_fzZlMWUd3hXujSL")[PCB Magnetorquer Prototype - Husky Satellite Lab] - Includes #link("https://github.com/manforowicz/Magnetorquer-Calc")[optimization code I wrote].
 
