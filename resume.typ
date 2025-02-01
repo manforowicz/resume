@@ -73,12 +73,12 @@
 - Leads a discussion section and grades homework for CSE 351 (Hardware/Software Interface).
 - Collaborates with faculty to teach C, x86 assembly, Linux, GDB, virtual memory, caching, etc.
 
+== PROJECTS
+
 === CSE Curriculum Designer --- University of Washington #h(1fr) January 2025 - Present
 
 - Works with faculty and graduate students to create a new course about concurrency.
-- Writes lecture content covering key concepts and designs labs in Rust and C. 
-
-== PROJECTS
+- Writes lecture content covering key concepts and designs labs in Rust and C.
 
 === YouTube educator #h(1fr) 2022 - Present
 
