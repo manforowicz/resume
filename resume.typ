@@ -77,8 +77,8 @@
 
 === CSE Curriculum Designer --- University of Washington #h(1fr) January 2025 - Present
 
-- Works with faculty and graduate students to create a new course about concurrency.
-- Writes lecture content covering key concepts and designs labs in Rust and C.
+- Works with Professor Tom Anderson and other students to make a course about concurrency.
+- Plans lecture content covering key concepts and helps design labs in Rust and C.
 
 === YouTube educator #h(1fr) 2022 - Present
 
