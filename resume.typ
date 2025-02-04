@@ -87,7 +87,7 @@
 
 === Student organizations --- University of Washington #h(1fr) 2022 - Present, 
 
-- At UW Husky Flying Club, leads a 4-person team in building remotely-operated aerial vehicles from foam composites. Teaches electronics, design, and implementation. 
+- At UW Husky Flying Club, leads a 4-person team in building remotely-operated #link("https://youtu.be/MtJTZ6KJV2U")[aerial vehicles] from foam composites. Teaches electronics, design, and implementation.
 - Creates marketing websites that auto-deploy using GitHub continuous integration:
   #link("https://uw-programming.netlify.app/")[UW Competitive Programming Club]
   (#link("https://github.com/manforowicz/uwcp-site")[code]),
