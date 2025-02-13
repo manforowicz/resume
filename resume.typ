@@ -11,8 +11,8 @@
 
 // Style
 #set page(paper: "us-letter")
-#set text(font: "Cantarell", lang: "en")
-// #set par(leading: 0.2em)
+// Disable ligatures so ATS systems do not get confused when parsing fonts.
+#set text(font: "Cantarell", lang: "en", ligatures: false)
 #show link: underline
 #show link: set text(blue)
 
@@ -23,20 +23,6 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-
-// #grid(
-//   columns: (2fr, 1fr),
-//   align: (left, right),
-//   [
-//     = Marcin Anforowicz
-//     #link("https://manforowicz.github.io/")[manforowicz.github.io] #h(1em)
-//     #link("https://www.linkedin.com/in/m-anforowicz/")[linkedin.com/in/m-anforowicz/]
-//   ],
-//   [
-//     (425) 340-9709 \
-//     #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
-//   ]
-// )
 
 - 3rd-year computer science undergraduate searching for a 2nd software internship.
 - Industry experience in: C, C++, Python, JavaScript, ESP-IDF, circuit design, GDB.
