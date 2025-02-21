@@ -11,6 +11,8 @@
 
 // Style
 #set page(paper: "us-letter")
+// #show heading.where(level: 2): set block(below: 0pt)
+// #show heading.where(level: 3): set block(above: 1em)
 // Disable ligatures so ATS systems do not get confused when parsing fonts.
 #set text(font: "Cantarell", lang: "en", ligatures: false)
 #show link: underline
@@ -31,8 +33,8 @@
 
 == EDUCATION
 
-=== Computer Science --- University of Washington #h(1fr) 2022 - Expected June 2026
-
+=== Bachelor of Science in Computer Engineering #h(1fr) 2022 - Expected June 2026
+Paul G. Allen School of Computer Science, University of Washington
 - GPA: 3.90
 - Favorite courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Data Structures & Parallelism, Networks.
 
