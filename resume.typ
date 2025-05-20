@@ -57,7 +57,7 @@ Paul G. Allen School of Computer Science, University of Washington
 === CSE Curriculum Designer --- University of Washington #h(1fr) January 2025 - Present
 
 - Developing new concurrency course with Prof. Tom Anderson.
-- Plans lecture content covering key concepts and helps design labs in Rust and C.
+- Designs assignments covering key concepts and helps design labs in Rust and C.
 
 === YouTube educator #h(1fr) 2022 - Present
 
