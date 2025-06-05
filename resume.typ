@@ -8,10 +8,10 @@
 // Style
 #set page(paper: "us-letter")
 // #show heading.where(level: 2): set block(below: 0pt)
-#show heading.where(level: 3): set block(above: 1em)
+// #show heading.where(level: 3): set block(above: 1em)
 
 // Disable ligatures so ATS systems do not get confused when parsing fonts.
-#set text(font: "Cantarell", lang: "en", ligatures: false)
+#set text(font: "Cantarell", lang: "en", ligatures: false, size: 10pt)
 #show link: underline
 #show link: set text(blue)
 
