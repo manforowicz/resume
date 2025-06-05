@@ -2,11 +2,7 @@
 #set document(
   title: "Marcin Anforowicz - Resume",
   author: "Marcin Anforowicz",
-  date: datetime(
-    year: 2025,
-    month: 5,
-    day: 5,
-  ),
+  date: datetime.today()
 )
 
 // Style
@@ -26,17 +22,17 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- 3rd-year computer engineering undergraduate searching for a 2nd software internship.
+- 3rd-year computer engineering undergraduate.
 - Industry experience in: C, C++, Python, JavaScript, ESP-IDF, circuit design, GDB.
 - Project experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
-- Native language proficiency in: English, Polish.
+- Native speaker of English and Polish.
 
 == EDUCATION
 
 === Bachelor of Science in Computer Engineering #h(1fr) 2022 - Expected June 2026
 Paul G. Allen School of Computer Science, University of Washington
 - GPA: 3.90
-- Key courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Data Structures & Parallelism, Networks.
+- Key courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Distributed Systems, Networks.
 
 == EXPERIENCE
 
@@ -47,17 +43,17 @@ Paul G. Allen School of Computer Science, University of Washington
 - Designed and built PCBs to power and test microcontrollers on a shared CAN bus.
 - Created an integration test suite that caught bugs in a large embedded C++ codebase.
 
-=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - Present
+=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - June 2025
 
-- Leads discussion sections and grades homework for CSE 351 (Hardware/Software Interface).
+- Led discussion sections and graded homework for CSE 351 (Hardware/Software Interface).
 - Taught hundreds of students the basics of C, Linux, GDB, virtual memory, caching, etc.
 
+=== Course Design Research Assistant --- University of Washington #h(1fr) June 2025 - Present
+
+- Helps develop a new course about concurrency with Prof. Tom Anderson.
+- Designs auto-graded assignments to teach asynchronous programming.
+
 == PROJECTS
-
-=== CSE Curriculum Designer --- University of Washington #h(1fr) January 2025 - Present
-
-- Developing new concurrency course with Prof. Tom Anderson.
-- Designs assignments covering key concepts and helps design labs in Rust and C.
 
 === YouTube educator #h(1fr) 2022 - Present
 
@@ -77,7 +73,7 @@ Paul G. Allen School of Computer Science, University of Washington
 - Lead a Husky Satellite Lab team to design and build #link("https://github.com/UWCubeSat/radio-hw")[CubeSat radios].
 - Competes on a University of Washington team in ICPC regionals.
 
-=== Active hobbyist #h(1fr) 2022 - Present
+=== Independent projects #h(1fr) 2022 - Present
 
 - Creates open source projects such as #link("https://github.com/manforowicz/gday")[Gday], a tool for encrypted peer-to-peer file transfer.
 - Published an interactive Rust web assembly #link("https://manforowicz.github.io/flock/")[simulation] on personal website.
