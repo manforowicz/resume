@@ -74,7 +74,7 @@ BS/MS at Paul G. Allen School of Computer Science, University of Washington
 
 == EXPERIENCE
 
-=== #link("https://manforowicz.github.io/#wibotic-video")[Software Engineering Intern --- WiBotic] #h(1fr) June 2024 - September 2024
+=== #link("https://www.linkedin.com/posts/m-anforowicz_today-is-the-final-day-of-my-engineering-activity-7242941893976711169-C97v?utm_source=share&utm_medium=member_desktop&rcm=ACoAADorO0sBqNSfVNW9zCSMa8zncCXjBV22ezI")[Software Engineering Intern --- WiBotic] #h(1fr) June 2024 - September 2024
 
 - Wrote over 3000 lines of multithreaded firmware for a real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet adapter].
 - Developed a user-friendly fullstack web app for remotely configuring this adapter.
