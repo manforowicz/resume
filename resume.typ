@@ -61,14 +61,14 @@
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
 - 4th-year computer engineering BS/MS student.
-- Industry experience in: C, C++, Python, JavaScript, Docker, ESP32, circuit design, GDB.
+- Industry experience in: C, C++, Python, JavaScript, Linux, Docker, ESP32, circuit design, GDB.
 - Academic experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
 - Native speaker of English and Polish.
 
 == EDUCATION
 
 === Master of Science in Computer Engineering #h(1fr) 2022 - Expected June 2027
-BS/MS at Paul G. Allen School of Computer Science, University of Washington
+Combined BS/MS at Paul G. Allen School of Computer Science, University of Washington
 - GPA: 3.90
 - Key courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics.
 
