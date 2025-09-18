@@ -60,21 +60,20 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- 4th-year computer engineering BS/MS student.
 - Industry experience in: C, C++, Python, JavaScript, Linux, Docker, ESP32, circuit design, GDB.
 - Academic experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
 - Native speaker of English and Polish.
 
 == EDUCATION
 
-=== Master of Science in Computer Engineering #h(1fr) 2022 - Expected June 2027
-Combined BS/MS at Paul G. Allen School of Computer Science, University of Washington
+=== Master of Science in Computer Engineering --- University of Washington#h(1fr) 2022 - Expected June 2027
+*(Combined BS/MS at Paul G. Allen School of Computer Science)*
 - GPA: 3.90
 - Key courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics.
 
 == EXPERIENCE
 
-=== #link("https://www.linkedin.com/posts/m-anforowicz_today-is-the-final-day-of-my-engineering-activity-7242941893976711169-C97v?utm_source=share&utm_medium=member_desktop&rcm=ACoAADorO0sBqNSfVNW9zCSMa8zncCXjBV22ezI")[Software Engineering Intern --- WiBotic] #h(1fr) June 2024 - September 2024
+=== #link("https://www.linkedin.com/posts/m-anforowicz_today-is-the-final-day-of-my-engineering-activity-7242941893976711169-C97v/")[Software Engineering Intern --- WiBotic] #h(1fr) June 2024 - September 2024
 
 - Wrote over 3000 lines of multithreaded firmware for a real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet adapter].
 - Developed a user-friendly fullstack web app for remotely configuring this adapter.
@@ -84,7 +83,7 @@ Combined BS/MS at Paul G. Allen School of Computer Science, University of Washin
 === Course Design Research Assistant --- University of Washington #h(1fr) June 2025 - Present
 
 - Helps develop a new computer science course about concurrency with Prof. Tom Anderson.
-- Designs auto-graded labs to teach topics including cache coherence and asynchronous programming.
+- Designs auto-graded labs about cache coherence, asynchronous programming, and Rust.
 
 === Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - June 2025
 
@@ -95,7 +94,7 @@ Combined BS/MS at Paul G. Allen School of Computer Science, University of Washin
 
 === YouTube educator #h(1fr) 2022 - Present
 
-- #link("https://youtu.be/_FuuYSM7yOo?si=-bUz7KSFfRh2WE0f")[The "Just One More Paradox"] - Over 3M views. Programmatically animated #link("https://github.com/manforowicz/Manim-Videos")[using Manim].
+- #link("https://youtu.be/_FuuYSM7yOo?si=-bUz7KSFfRh2WE0f")[The "Just One More Paradox"] - Over 3M views.  #link("https://github.com/manforowicz/Manim-Videos")[Programmatically animated].
 - #link("https://youtu.be/cGJYCe6mGR0?si=_fzZlMWUd3hXujSL")[PCB Magnetorquer Prototype - Husky Satellite Lab] - Includes #link("https://github.com/manforowicz/Magnetorquer-Calc")[optimization code I wrote].
 
 === Student organizations --- University of Washington #h(1fr) 2022 - Present,
