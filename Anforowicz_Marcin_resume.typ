@@ -61,7 +61,7 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- Industry experience in: C, C++, Python, JavaScript, Linux, Docker, FreeRTOS ESP32, circuit design, GDB.
+- Industry experience in: C, C++, Python, JavaScript, Linux, Docker, FreeRTOS, ESP32, circuit design, GDB.
 - Academic experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
 - Native speaker of English and Polish.
 
