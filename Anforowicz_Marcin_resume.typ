@@ -9,7 +9,7 @@
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
 - Industry experience in: C, C++, Python, JavaScript, Linux, Docker, FreeRTOS, ESP32, circuit design, GDB.
-- Academic experience in: Rust, Java, Typescript, SystemVerilog, Arduino, serial protocols.
+- Academic experience in: Rust, Java, Typescript, SystemVerilog, SQL, Arduino, serial protocols.
 - Native speaker of English and Polish.
 
 == EDUCATION
@@ -17,7 +17,7 @@
 === Master of Science in Computer Engineering --- University of Washington#h(1fr) 2022 - Expected June 2027
 *(Combined BS/MS at Paul G. Allen School of Computer Science)*
 - GPA: 3.90
-- Key courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics.
+- Key courses: Machine Learning, Systems Programming, Digital Design, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics, Computer Vision, Data Management.
 
 == EXPERIENCE
 
@@ -55,8 +55,8 @@
   (#link("https://github.com/uwCubeSat/hsl-website")[code]),
   #link("https://manforowicz.github.io/")[personal site]
   (#link("https://github.com/manforowicz/manforowicz.github.io")[code]).
-- Lead a Husky Satellite Lab team to design and build #link("https://github.com/UWCubeSat/radio-hw")[CubeSat radios].
-- Competes on a University of Washington team in ICPC regionals.
+- At Husky Satellite Lab built #link("https://github.com/UWCubeSat/radio-hw")[CubeSat radios] and programs high-altitude balloon #link("https://github.com/UWCubeSat/phat3_code")[ payloads].
+- Competes on a team in ICPC regionals.
 
 === Independent projects #h(1fr) 2022 - Present
 
