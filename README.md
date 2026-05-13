@@ -6,4 +6,4 @@ Also check out [my website](https://manforowicz.github.io/) and my [LinkedIn](ht
 
 Don't hesitate to reach out to me at <manfor@cs.washington.edu>.
 
-Happy coding!
+Happy programming!

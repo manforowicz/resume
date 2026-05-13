@@ -3,7 +3,7 @@
     title: "Marcin Anforowicz - Resume",
     author: "Marcin Anforowicz",
     date: datetime.today(),
-    description: "Marcin Anforowicz is a computer engineering student at the University of Washington. He has software development experience in industry and academia. He's a quick learner, and a productive team player.",
+    description: "Marcin Anforowicz is a master's student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He has software development experience in industry and academia. He's a quick learner, and a productive team player.",
     keywords: (
       "C",
       "C++",
