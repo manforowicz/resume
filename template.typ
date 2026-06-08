@@ -9,6 +9,7 @@
       "C++",
       "Rust",
       "Python",
+      "PyTorch",
       "Javascript",
       "Typescript",
       "ESP32",
