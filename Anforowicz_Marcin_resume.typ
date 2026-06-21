@@ -16,14 +16,22 @@
 
 === Master's in Computer Science & Engineering --- University of Washington#h(1fr) 2022 - Expected June 2027
 - Combined BS/MS at Paul G. Allen School of Computer Science & Engineering.
-- GPA: 3.89
+- GPA: 3.90
 - Key courses: Machine Learning Capstone, Systems Programming, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics, Computer Vision, Data Management.
+- Wrote #link("https://drive.google.com/file/d/133cb9UEhL6XqJrgd5WDftE-4gfAbC2jo/view?usp=sharing")[_Gated ViT structured pruning, with a lottery ticket hypothesis perspective_].
 
 == EXPERIENCE
 
 === Software Engineering Intern --- Qumulo #h(1fr) June 2026 - September 2026
 
-- I look forward to working on distributed filesystems when I start my internship at Qumulo!
+- Adding support for exposing S3 buckets to Qumulo filesystem. 
+
+
+=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - April 2026
+
+- Helped create and teach a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L "334"] (Concurrency, Parallelism, and Rust).
+- Designed auto-graded assignments on cache coherence, async/await, multi-threading, dataflow, etc.
+- Helped teach #link("https://courses.cs.washington.edu/courses/cse351/25sp/")[CSE 351] (Hardware/Software Interface). Covers caching, C, virtual memory, etc.
 
 
 === #link("https://www.linkedin.com/posts/m-anforowicz_today-is-the-final-day-of-my-engineering-activity-7242941893976711169-C97v/")[Software Engineering Intern --- WiBotic] #h(1fr) June 2024 - September 2024
@@ -31,21 +39,14 @@
 - Programmed a new multi-threaded real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet adapter].
 - Built an intuitive fullstack web app for remotely configuring this adapter.
 - Designed and built a PCB to power and test microcontrollers on a shared CAN bus.
-- Created an integration test suite that caught bugs in a large C++ codebase.
-
-
-=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - April 2026
-
-- Helped create and teach a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L/334] (Concurrency, Parallelism, and Rust).
-- Designed auto-graded assignments that introduce students to cache coherence, async/await, multi-threading, dataflow, etc.
-- Helped teach #link("https://courses.cs.washington.edu/courses/cse351/25sp/")[CSE 351] (Hardware/Software Interface). Covers caching, C, virtual memory, etc.
+- Created a hardware integration test suite that caught critical bugs in a production C++ codebase.
 
 
 == PROJECTS
 
 === Student organizations --- University of Washington #h(1fr) 2022 - Present,
 
-- At Husky Satellite Lab, programmed a #link("https://youtu.be/XpSKpyZeOgA")[high-altitude balloon payload].
+- At Husky Satellite Lab, programmed a #link("https://youtu.be/XpSKpyZeOgA")[high-altitude payload] and supervised launch as safety officer.
 - At Husky Flying Club, lead a team in building remotely-operated #link("https://youtu.be/MtJTZ6KJV2U")[aerial vehicles].
 - Creates marketing websites that auto-deploy using GitHub continuous integration:
   #link("https://uw-programming.netlify.app/")[Competitive Programming Club]
@@ -60,7 +61,7 @@
 === Independent projects #h(1fr) 2022 - Present
 
 - Creates open source projects such as #link("https://github.com/manforowicz/gday")[Gday], a tool for encrypted peer-to-peer file transfer.
-- Published an interactive web assembly #link("https://manforowicz.github.io/flock/")[simulation].
+- Wrote a #link("https://manforowicz.github.io/flock/")[simulation] in Rust that compiles and runs in web assembly
 - FCC-certified amateur radio operator.
 
 

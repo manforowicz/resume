@@ -3,7 +3,7 @@
     title: "Marcin Anforowicz - Resume",
     author: "Marcin Anforowicz",
     date: datetime.today(),
-    description: "Marcin Anforowicz is a master's student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He has software development experience in industry and academia. He's a quick learner, and a productive team player.",
+    description: "Marcin Anforowicz is a master's student at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He has applicable software development experience from industry and academia. He's a quick learner, and a productive team player.",
     keywords: (
       "C",
       "C++",
@@ -47,8 +47,6 @@
 
   // Style
   set page(paper: "us-letter")
-  // #show heading.where(level: 2): set block(below: 0pt)
-  // #show heading.where(level: 3): set block(above: 1em)
 
   // Disable ligatures so ATS systems do not get confused when parsing fonts.
   set text(font: "Cantarell", lang: "en", ligatures: false, size: 10pt)
