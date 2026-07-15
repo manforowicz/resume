@@ -8,8 +8,8 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- Industry experience in: C, C++, Python, JavaScript, GDB, Docker, FreeRTOS, ESP32, KiCad.
-- Academic experience in: PyTorch, Rust, Java, Typescript, SystemVerilog, SQL, Arduino.
+- Industry experience in: C, C++, Rust, Python, Docker, JavaScript, GDB, FreeRTOS, ESP32, KiCad.
+- Academic experience in: PyTorch, Java, Typescript, SystemVerilog, SQL, Arduino.
 - Native speaker of English and Polish.
 
 == EDUCATION
@@ -17,26 +17,28 @@
 === Master's in Computer Science & Engineering --- University of Washington#h(1fr) 2022 - Expected June 2027
 - Combined BS/MS at Paul G. Allen School of Computer Science & Engineering.
 - GPA: 3.90
-- Key courses: Machine Learning Capstone, Systems Programming, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics, Computer Vision, Data Management.
-- Wrote #link("https://drive.google.com/file/d/133cb9UEhL6XqJrgd5WDftE-4gfAbC2jo/view?usp=sharing")[_Gated ViT structured pruning, with a lottery ticket hypothesis perspective_].
+- Key courses: Deep Learning, Reinforcement Learning, Data Visualization, Security, Operating Systems, Distributed Systems, Networks, Linguistics, Computer Vision, Data Management.
+- Wrote a capstone report, #link("https://manforowicz.github.io/assets/anforowicz_ml_capstone.pdf")[_Gated ViT structured pruning, with a lottery ticket hypothesis perspective_].
 
 == EXPERIENCE
 
 === Software Engineering Intern --- Qumulo #h(1fr) June 2026 - September 2026
 
-- Adding support for exposing S3 buckets to Qumulo filesystem. 
+- Adding support for mounting external S3 buckets in the filesystem.
+- Writing chaos tests that catch transaction race conditions in distributed clusters.
+- Improving maintainability by performing refactors in the large Rust and C codebase.
 
 
-=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - April 2026
+=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - December 2026
 
-- Helped create and teach a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L "334"] (Concurrency, Parallelism, and Rust).
-- Designed auto-graded assignments on cache coherence, async/await, multi-threading, dataflow, etc.
+- Helped create and teach a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L: Concurrency, Parallelism, and Rust].
+- Designed auto-graded assignments on #link("https://manforowicz.github.io/intro_to_rust_async/")[async/await], cache coherence, multi-threading, dataflow, etc.
 - Helped teach #link("https://courses.cs.washington.edu/courses/cse351/25sp/")[CSE 351] (Hardware/Software Interface). Covers caching, C, virtual memory, etc.
 
 
 === #link("https://www.linkedin.com/posts/m-anforowicz_today-is-the-final-day-of-my-engineering-activity-7242941893976711169-C97v/")[Software Engineering Intern --- WiBotic] #h(1fr) June 2024 - September 2024
 
-- Programmed a new multi-threaded real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet adapter].
+- Wrote the firmware for a new real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet adapter].
 - Built an intuitive fullstack web app for remotely configuring this adapter.
 - Designed and built a PCB to power and test microcontrollers on a shared CAN bus.
 - Created a hardware integration test suite that caught critical bugs in a production C++ codebase.
