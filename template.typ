@@ -45,10 +45,7 @@
     ),
   )
 
-  // Style
   set page(paper: "us-letter")
-
-  // Disable ligatures so ATS systems do not get confused when parsing fonts.
   set text(font: "Cantarell", lang: "en", ligatures: false, size: 10pt)
   show link: underline
   show link: set text(blue)

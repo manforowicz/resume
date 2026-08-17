@@ -33,9 +33,3 @@
     #qrcode("https://github.com/manforowicz/gday", width: 14em)
   ],
 )
-
-
-
-
-
-
