@@ -8,15 +8,15 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- Industry experience in: C, C++, Rust, Python, Docker, JavaScript, GDB, FreeRTOS, ESP32, KiCad.
-- Academic experience in: PyTorch, machine learning research, Java, SystemVerilog, SQL, embedded.
+- Industry experience in: C, C++, Rust, Python, Docker, AWS, JavaScript, GDB, FreeRTOS, ESP32, KiCad.
+- Academic experience in: PyTorch, machine learning research, Java, SystemVerilog, SQL.
 - Native speaker of English and Polish.
 
 == EDUCATION
 
 === Master's in Computer Science & Engineering --- University of Washington#h(1fr) Graduating on June 2027
 - GPA: 3.90
-- Combined BS/MS at the Paul G. Allen School of Computer Science & Engineering.
+- BS/MS at the Paul G. Allen School of Computer Science & Engineering.
 - Key courses: Deep Learning, Reinforcement Learning, Computer Vision, Distributed Systems, Data Visualization, Security, Operating Systems, Networks, Linguistics, Data Management.
 - Undergraduate capstone: #link("https://manforowicz.github.io/assets/anforowicz_ml_capstone.pdf")[_Gated ViT structured pruning, with a lottery ticket hypothesis perspective_].
 
@@ -24,15 +24,14 @@
 
 === Software Engineering Intern --- Qumulo #h(1fr) Summer 2026
 
-- Helped add support for mounting external AWS S3 buckets in the filesystem, with read/write caching.
+- Worked on a distributed filesystem that acts as a sparse read/write cache over an external S3 bucket.
 - Wrote fuzz tests that caught transaction race conditions and livelock in distributed clusters.
-- Improved maintainability by performing refactors in the large Rust and C codebase.
-- Added eventually-consistent aggregate metrics counting external objects for billing.
+- Made each directory store aggregated metrics about its contents, used for billing.
 
 
 === Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - December 2026
 
-- Helped create a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L] (Concurrency, Parallelism, and Rust).
+- Helped create and teach a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L] (Concurrency, Parallelism, and Rust).
 - Designed auto-graded assignments on #link("https://manforowicz.github.io/intro_to_rust_async/")[async/await], cache coherence, multi-threading, dataflow, etc.
 - Helped teach #link("https://courses.cs.washington.edu/courses/cse351/25sp/")[CSE 351] (Hardware/Software Interface). Covers caching, C, virtual memory, etc.
 
@@ -49,7 +48,7 @@
 === Student organizations --- University of Washington #h(1fr) 2022 - Present
 
 - At Husky Satellite Lab, programmed a #link("https://youtu.be/XpSKpyZeOgA")[high-altitude payload], supervised launch as safety officer, and created a #link("https://youtu.be/cGJYCe6mGR0?si=_fzZlMWUd3hXujSL")[PCB Magnetorquer Prototype].
-- At Husky Flying Club, lead a team in building remotely-operated #link("https://youtu.be/MtJTZ6KJV2U")[aerial vehicles].
+- At Husky Flying Club, taught a team how to build remotely-operated #link("https://youtu.be/MtJTZ6KJV2U")[aerial vehicles].
 - Creates auto-deployed static websites:
   #link("https://uw-programming.netlify.app/")[Competitive Programming],
   #link("https://huskysat.org/")[Husky Satellite Lab],
