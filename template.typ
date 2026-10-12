@@ -42,6 +42,14 @@
       "team player",
       "Docker",
       "FreeRTOS",
+      "Kubernetes",
+      "Make",
+      "Cmake",
+      "deep learning",
+      "reinforcement learning",
+      "computer vision",
+      "natural language processing",
+      "ML",
     ),
   )
 

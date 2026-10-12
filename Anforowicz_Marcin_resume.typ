@@ -8,8 +8,8 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- Industry experience in: C, C++, Rust, Python, Docker, AWS, JavaScript, GDB, FreeRTOS,  KiCad.
-- Academic experience in: PyTorch, machine learning research, Java, Go, SystemVerilog, SQL.
+- Industry experience: C, C++, Rust, Python, Docker, AWS, JavaScript, GDB, FreeRTOS,  KiCad, CMake.
+- Academic experience: PyTorch, machine learning research, Java, Go, SystemVerilog, SQL.
 - Native speaker of English and Polish.
 
 == EDUCATION
@@ -25,7 +25,6 @@
 
 - Worked on a distributed filesystem that acts as a sparse read/write cache over an external S3 bucket.
 - Wrote fuzz tests that caught transaction race conditions and livelock.
-- Implemented aggregate metrics of external S3 object tiering, for billing purposes.
 - Upgraded serialized on-disk structures and RPCs, while maintaining backwards compatibility.
 
 
