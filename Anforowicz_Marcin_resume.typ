@@ -8,16 +8,15 @@
 #h(1fr)
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
-- Industry experience in: C, C++, Rust, Python, Docker, AWS, JavaScript, GDB, FreeRTOS, ESP32, KiCad.
-- Academic experience in: PyTorch, machine learning research, Java, SystemVerilog, SQL.
+- Industry experience in: C, C++, Rust, Python, Docker, AWS, JavaScript, GDB, FreeRTOS,  KiCad.
+- Academic experience in: PyTorch, machine learning research, Java, Go, SystemVerilog, SQL.
 - Native speaker of English and Polish.
 
 == EDUCATION
 
-=== Master's in Computer Science & Engineering --- University of Washington#h(1fr) Graduating on June 2027
-- GPA: 3.90
-- BS/MS at the Paul G. Allen School of Computer Science & Engineering.
-- Key courses: Deep Learning, Reinforcement Learning, Computer Vision, Distributed Systems, Data Visualization, Security, Operating Systems, Networks, Linguistics, Data Management.
+=== Master's in Computer Science & Engineering --- University of Washington#h(1fr) Graduates in June 2027
+- GPA: 3.90. BS/MS at the Paul G. Allen School of Computer Science & Engineering.
+- Key courses: Deep Learning, Reinforcement Learning, Computer Vision, Distributed Systems, Data Center Systems, Operating Systems, Security, Linguistics, Digital Design.
 - Undergraduate capstone: #link("https://manforowicz.github.io/assets/anforowicz_ml_capstone.pdf")[_Gated ViT structured pruning, with a lottery ticket hypothesis perspective_].
 
 == EXPERIENCE
@@ -25,20 +24,21 @@
 === Software Engineering Intern --- Qumulo #h(1fr) Summer 2026
 
 - Worked on a distributed filesystem that acts as a sparse read/write cache over an external S3 bucket.
-- Wrote fuzz tests that caught transaction race conditions and livelock in distributed clusters.
-- Made each directory store aggregated metrics about its contents, used for billing.
+- Wrote fuzz tests that caught transaction race conditions and livelock.
+- Implemented aggregate metrics of external S3 object tiering, for billing purposes.
+- Upgraded serialized on-disk structures and RPCs, while maintaining backwards compatibility.
 
 
-=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - December 2026
+=== Computer Science Teaching Assistant --- University of Washington #h(1fr) January 2025 - Present
 
-- Helped create and teach a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26wi/")[CSE 493L] (Concurrency, Parallelism, and Rust).
+- Helped create a new course called #link("https://courses.cs.washington.edu/courses/cse493l/26au/")[CSE 493L] (Concurrency, Parallelism, and Rust), serves as head TA.
 - Designed auto-graded assignments on #link("https://manforowicz.github.io/intro_to_rust_async/")[async/await], cache coherence, multi-threading, dataflow, etc.
 - Helped teach #link("https://courses.cs.washington.edu/courses/cse351/25sp/")[CSE 351] (Hardware/Software Interface). Covers caching, C, virtual memory, etc.
 
 
 === #link("https://www.linkedin.com/posts/m-anforowicz_today-is-the-final-day-of-my-engineering-activity-7242941893976711169-C97v/")[Software Engineering Intern --- WiBotic] #h(1fr) Summer 2024
 
-- Programmed a real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-ethernet network adapter], and a web app for configuring it.
+- Programmed a real-time #link("https://github.com/wibotic/socketcand_translate")[CAN-to-Ethernet network adapter], and a web app for configuring it.
 - Designed and built a PCB to power and test microcontrollers on a shared CAN bus.
 - Created a hardware integration test suite that caught bugs in a production embedded C++ codebase.
 
@@ -47,9 +47,9 @@
 
 === Student organizations --- University of Washington #h(1fr) 2022 - Present
 
-- At Husky Satellite Lab, programmed a #link("https://youtu.be/XpSKpyZeOgA")[high-altitude payload], supervised launch as safety officer, and created a #link("https://youtu.be/cGJYCe6mGR0?si=_fzZlMWUd3hXujSL")[PCB Magnetorquer Prototype].
+- At Husky Satellite Lab, programmed a #link("https://youtu.be/XpSKpyZeOgA")[high-altitude payload], supervised launch as safety officer, and created a #link("https://youtu.be/cGJYCe6mGR0?si=_fzZlMWUd3hXujSL")[Magnetorquer Prototype PCB].
 - At Husky Flying Club, taught a team how to build remotely-operated #link("https://youtu.be/MtJTZ6KJV2U")[aerial vehicles].
-- Creates auto-deployed static websites:
+- Creates easy-to-maintain websites:
   #link("https://uw-programming.netlify.app/")[Competitive Programming],
   #link("https://huskysat.org/")[Husky Satellite Lab],
   #link("https://manforowicz.github.io/")[personal].
@@ -58,7 +58,7 @@
 
 === Independent projects #h(1fr) 2022 - Present
 
-- #link("https://github.com/manforowicz/gday")[Gday] (encrypted peer-to-peer file transfer), #link("https://manforowicz.github.io/flock/")[Boids] (a simulation compiled to web assembly).
+- #link("https://github.com/manforowicz/gday")[Gday] (encrypted peer-to-peer file transfer), #link("https://manforowicz.github.io/flock/")[Boids] (a simulation compiled to WebAssembly).
 - FCC-certified amateur radio operator.
 - Educational math YouTube video with over 3 million views: #link("https://youtu.be/_FuuYSM7yOo?si=-bUz7KSFfRh2WE0f")[The "Just One More Paradox"].
 
