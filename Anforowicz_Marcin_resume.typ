@@ -9,7 +9,7 @@
 #link("mailto:manfor@cs.washington.edu", "manfor@cs.washington.edu")
 
 - Industry experience: C, C++, Rust, Python, Docker, AWS, JavaScript, GDB, FreeRTOS,  KiCad, CMake.
-- Academic experience: PyTorch, machine learning research, Java, Go, SystemVerilog, SQL.
+- Academic experience: PyTorch, machine learning research, Kubernetes, Java, Go, SystemVerilog, SQL.
 - Native speaker of English and Polish.
 
 == EDUCATION
