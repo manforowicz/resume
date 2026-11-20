@@ -16,7 +16,7 @@
 
 === Master's in Computer Science & Engineering --- University of Washington#h(1fr) Graduates in June 2027
 - GPA: 3.90. BS/MS at the Paul G. Allen School of Computer Science & Engineering.
-- Key courses: Deep Learning, Reinforcement Learning, Computer Vision, Distributed Systems, Data Center Systems, Operating Systems, Security, Linguistics, Digital Design.
+- Key courses: Systems for Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Distributed Systems, Data Center Systems, Security, Digital Design.
 - Undergraduate capstone: #link("https://manforowicz.github.io/assets/anforowicz_ml_capstone.pdf")[_Gated ViT structured pruning, with a lottery ticket hypothesis perspective_].
 
 == EXPERIENCE
